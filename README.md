@@ -6,7 +6,7 @@ My name is Neel Parihar and I'm a Software Developer/Full Stack Engineer. I'm fr
 - 🌱 I’m currently learning more about FullStack Development.
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/neel-parihar)
-- ⚡ Fun fact: I love to Click Photographs and Videos while traveling.
+- ⚡ Fun fact: I love to Click Photographs and Videos.
 
 <br/>
 
