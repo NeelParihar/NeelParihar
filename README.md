@@ -14,16 +14,16 @@ My name is Neel Parihar and I'm a Software Developer/Full Stack Engineer. I'm fr
 **You can find me at** 
 
 <div>
-<a href="https://linkedin.com/in/neel-parihar">
+<a href="https://linkedin.com/in/neel-parihar" target="_blank">
   <img align="left" alt="Neel's Linkdein" width="45px" src="https://img.icons8.com/nolan/96/linkedin.png" />
 </a>
-<a href="https://github.com/NeelParihar">
+<a href="https://github.com/NeelParihar" target="_blank">
   <img align="left" alt="Neel's Github" width="45px" src="https://img.icons8.com/nolan/96/github.png" />
 </a>
-<a href="https://instagram.com/neell.___/">
+<a href="https://instagram.com/neell.___/" target="_blank">
   <img align="left" alt="Neel's Instagram" width="45px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
 </a>
-<a href="https://www.youtube.com/channel/UCJC0IYiHNOmNmDP1PQDrUrA/">
+<a href="https://www.youtube.com/channel/UCJC0IYiHNOmNmDP1PQDrUrA/" target="_blank">
   <img align="left" alt="Neel's Youtube" width="45px" src="https://img.icons8.com/nolan/96/youtube.png" />
 </a>
 </div>
