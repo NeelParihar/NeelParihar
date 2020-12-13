@@ -15,19 +15,16 @@ My name is Neel Parihar and I'm a Software Developer/Full Stack Engineer. I'm fr
 
 <div>
 <a href="https://linkedin.com/in/neel-parihar">
-  <img align="left" alt="Neel's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Neel's Linkdein" width="45px" src="https://img.icons8.com/nolan/96/linkedin.png" />
 </a>
 <a href="https://github.com/NeelParihar">
-  <img align="left" alt="Neel's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/NeelParihar">
-  <img align="left" alt="Neel's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Neel's Github" width="45px" src="https://img.icons8.com/nolan/96/github.png" />
 </a>
 <a href="https://instagram.com/neell.___/">
-  <img align="left" alt="Neel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Neel's Instagram" width="45px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
 </a>
 <a href="https://www.youtube.com/channel/UCJC0IYiHNOmNmDP1PQDrUrA/">
-  <img align="left" alt="Neel's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="Neel's Youtube" width="45px" src="https://img.icons8.com/nolan/96/youtube.png" />
 </a>
 </div>
 
@@ -35,6 +32,7 @@ My name is Neel Parihar and I'm a Software Developer/Full Stack Engineer. I'm fr
 <br/>
 <!--[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)-->
 
+<br/>
 
 
 **🔧 Languages and Tools:**  
