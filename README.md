@@ -34,7 +34,7 @@ My name is Neel Parihar and I'm a Software Developer/Full Stack Engineer. I'm fr
 
 <br/>
 
-
+<!--
 **🔧 Languages and Tools:**  
 
 
@@ -63,17 +63,19 @@ My name is Neel Parihar and I'm a Software Developer/Full Stack Engineer. I'm fr
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=7B68EE)
 ![](https://img.shields.io/badge/Tools-Cloud_Firestore-informational?style=flat&logo=firebase&logoColor=white&color=7B68EE)
 
+-->
 <br/>
 <br/>
 
 <div align="center">
 <a href="https://github.com/NeelParihar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeelParihar&theme=light&layout=compact&exclude_repo=colordetection" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeelParihar&theme=dark&layout=compact&exclude_repo=colordetection" />
 </a>
+  <!--
 <a href="https://github.com/NeelParihar">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=NeelParihar&show_icons=true&theme=light&line_height=20" alt="Neel's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=NeelParihar&show_icons=true&theme=dark&layout=compact" alt="Neel's github stats"/>
 </a>
-  
+  -->
 </div>
 
 
