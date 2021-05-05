@@ -66,16 +66,16 @@ My name is Neel Parihar and I'm a Software Developer/Full Stack Engineer. I'm fr
 -->
 <br/>
 <br/>
-
+  <!--
 <div align="center">
 <a href="https://github.com/NeelParihar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeelParihar&theme=dark&layout=compact&exclude_repo=colordetection" />
 </a>
-  <!--
+
 <a href="https://github.com/NeelParihar">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NeelParihar&show_icons=true&theme=dark&layout=compact" alt="Neel's github stats"/>
 </a>
-  -->
-</div>
 
+</div>
+  -->
 
