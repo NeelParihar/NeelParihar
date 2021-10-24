@@ -3,8 +3,7 @@
 My name is Neel Parihar and I'm a Software Developer/Full Stack Engineer. I'm from India, living in Mumbai and currently studying Computer Science and Engineering.
 <br/>
 
-- 🌱 I’m currently learning more about Backend Development.
-- 💬 Ask me about any tech related stuff.
+- 🌱 I’m currently learning more about Javascript, Typescript, React.js, Node.js.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/neel-parihar)
 - ⚡ Fun fact: I love to Click Photographs and Videos.
 
