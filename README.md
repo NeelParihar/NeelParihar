@@ -66,7 +66,6 @@ My name is Neel Parihar and I'm a Software Developer/Full Stack Engineer who is 
 
 -->
 <br/>
-<br/>
   <!--
 <div align="center">
 <a href="https://github.com/NeelParihar">
