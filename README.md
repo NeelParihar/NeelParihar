@@ -1,10 +1,12 @@
-## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there! 👋
 
-My name is Neel Parihar and I'm a Software Developer/Full Stack Engineer. I'm from India, living in Mumbai and currently studying Computer Science and Engineering.
+My name is Neel Parihar and I'm a Software Developer/Full Stack Engineer who is exploring building new projects and ideas.
 <br/>
 
-- 🌱 I’m currently learning more about Javascript, Typescript, React.js, Node.js, and TerminusDB.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/neel-parihar)
+- 🌱 I’m currently learning more about Javascript, System design and Database Engineering.
+- 📚 I want to learn NestJS and NextJS.
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/neel-parihar).
+- 🤝 I’m looking to collaborate on a Full-Stack Project.
 - ⚡ Fun fact: I love to Click Photographs and Videos.
 
 <br/>
