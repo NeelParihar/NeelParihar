@@ -79,3 +79,4 @@ My name is Neel Parihar and I'm a Software Developer/Full Stack Engineer who is 
 </div>
   -->
 
+https://gpvc.arturio.dev/neelparihar
