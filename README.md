@@ -4,7 +4,6 @@ My name is Neel Parihar and I'm a Software Developer/Full Stack Engineer who is 
 <br/>
 
 - 🌱 I’m currently learning more about Javascript, System design and Database Engineering.
-- 📚 I want to learn NestJS and NextJS.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/neel-parihar).
 - 🤝 I’m looking to collaborate on a Full-Stack Project.
 - ⚡ Fun fact: I love to Click Photographs and Videos.
