@@ -14,6 +14,10 @@ My name is Neel Parihar and I'm a Software Developer/Full Stack Engineer who is 
 **You can find me at** 
 
 <div>
+ <a href="https://www.neelparihar.com" target="_blank">
+  <img align="left" alt="Neel's Youtube" width="45px" src="https://img.icons8.com/nolan/96/america.png" />
+</a>
+  
 <a href="https://linkedin.com/in/neel-parihar" target="_blank">
   <img align="left" alt="Neel's Linkdein" width="45px" src="https://img.icons8.com/nolan/96/linkedin.png" />
 </a>
@@ -27,12 +31,6 @@ My name is Neel Parihar and I'm a Software Developer/Full Stack Engineer who is 
   <img align="left" alt="Neel's Youtube" width="45px" src="https://img.icons8.com/nolan/96/youtube.png" />
 </a>
 </div>
-
-<br/>
-<br/>
-<!--[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)-->
-
-<br/>
 
 <!--
 **🔧 Languages and Tools:**  
