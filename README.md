@@ -10,6 +10,7 @@ My name is Neel Parihar and I'm a Software Developer/Full Stack Engineer who is 
 
 <br/>
 
+![Neel's GitHub stats](https://github-readme-stats.vercel.app/api?username=neelparihar&count_private=true&show_icons=true)
 
 **You can find me at** 
 
