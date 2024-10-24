@@ -3,10 +3,6 @@
 My name is Neel Parihar and I'm a Software Developer/Full Stack Engineer who is exploring building new projects and ideas.
 <br/>
 
-- 🌱 I’m currently learning more about Javascript, ReactJs, NextJs.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/neel-parihar).
-- 🤝 I’m looking to collaborate on a Full-Stack Project.
-
 <br/>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=neelparihar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelparihar&layout=compact&theme=buefy&hide_border=true&&exclude_repo=colordetection&hide=dart,c" /></a> |
