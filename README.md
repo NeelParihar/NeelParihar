@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-My name is Neel Parihar and I'm a Software Developer/Full Stack Engineer who is exploring building new projects and ideas.
+I'm a Software Developer/Full Stack Engineer who is exploring building new projects and ideas.
 <br/>
 
 <br/>
