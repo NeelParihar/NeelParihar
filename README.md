@@ -21,7 +21,7 @@ I'm a Software Developer/Full Stack Engineer who is exploring building new proje
 <a href="https://github.com/NeelParihar" target="_blank">
   <img align="left" alt="Neel's Github" width="45px" src="https://img.icons8.com/nolan/96/github.png" />
 </a>
-<a href="https://instagram.com/neell.___/" target="_blank">
+<a href="https://instagram.com/neelpariharr/" target="_blank">
   <img align="left" alt="Neel's Instagram" width="45px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
 </a>
 <a href="https://www.youtube.com/channel/UCJC0IYiHNOmNmDP1PQDrUrA/" target="_blank">
