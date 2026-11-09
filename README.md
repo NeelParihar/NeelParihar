@@ -5,7 +5,7 @@ I'm a Software Developer/Full Stack Engineer who is exploring building new proje
 
 <br/>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=neelparihar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelparihar&layout=compact&theme=buefy&hide_border=true&&exclude_repo=colordetection&hide=dart,c" /></a> |
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=neelparihar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Neel's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelparihar&layout=compact&theme=buefy&hide_border=true&&exclude_repo=colordetection&hide=dart,c" /></a> |
 | ------------- | ------------- |
 
 **You can find me at** 
